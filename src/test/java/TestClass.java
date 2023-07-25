@@ -15,10 +15,12 @@ public class TestClass {
 		driver.get("http://google.com");
 		
 		By serchTextBox = By.name("q");
-		
+//		By googleSearchButton = By.name("btnK");
 		
 		driver.findElement(serchTextBox).sendKeys("Kashi Swarnkar");
 		driver.findElement(serchTextBox).sendKeys(Keys.RETURN);
+//		driver.findElement(googleSearchButton).click();
+		
 		
 		driver.close();
 		

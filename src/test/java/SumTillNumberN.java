@@ -17,7 +17,7 @@ public class SumTillNumberN {
 		}
 		
 		System.out.println("Sum of numbers from 0 to " +num +" is = " +sum);
-		System.out.println("WOW");
+		System.out.println("WOW Man");
 	}
 
 }

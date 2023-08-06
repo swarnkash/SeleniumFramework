@@ -3,7 +3,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello Kashi Swarnkar");
+		System.out.println("imbedded Newman trigger");
 
 	}
 
